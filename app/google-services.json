@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "103828217822",
+    "firebase_url": "https://ngechat-99ec8.firebaseio.com",
+    "project_id": "ngechat-99ec8",
+    "storage_bucket": "ngechat-99ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103828217822:android:5f4b45f63b8f27d9",
+        "android_client_info": {
+          "package_name": "com.uksw.khw.ngechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXE7QAlEfX5t-fxeXM27nFbgQnFJWTcRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103828217822-d4qin3lbkeafnfkhk0pe51v6pts90f6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
